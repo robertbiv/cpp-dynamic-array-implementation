@@ -1,0 +1,23 @@
+# Compiled binaries
+homework3
+*.exe
+*.out
+
+# Build directories
+Debug/
+Release/
+x64/
+x86/
+
+# Visual Studio files
+*.suo
+*.user
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+.vs/
+
+# Object files
+*.o
+*.obj
