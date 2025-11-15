@@ -1,5 +1,4 @@
-# Birthday Guessing Program
-
+# C++ Birthday Guessing Game
 A C++ program that can determine your birthday (day of the month) by asking only 5 yes/no questions.
 
 ## Description
